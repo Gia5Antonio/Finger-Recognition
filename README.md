@@ -1,1 +1,3 @@
 # Finger-Recognition
+
+This project was made for the exam of Multimedial System to the university. The purpose of the software is to recognize the hand and in particular the number of fingers shown by the user to a video capture device (webcam). The operation is very simple: the software, based on user gestures, is able to detect and print on screen the number of fingers (in this version from 1 to 5) shown to the webcam. The software with some modifications could find various uses, even in the most disparate fields, for example the "typing" of a pin code without the use of a device with keys, or the automatic reading and "translation" of the sign language .
